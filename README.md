@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tibo-Net
-- 👀 I’m interested in .Net, Angular
-- 🌱 I’m currently learning Blazor
+- 👀 I’m interested in .Net, Angular, React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
